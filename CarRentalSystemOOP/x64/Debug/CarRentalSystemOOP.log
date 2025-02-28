@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\DELL\source\repos\CarRentalSystemOOP\LoginUser.h(191,46): warning C4101: 'e': unreferenced local variable
+C:\Users\DELL\source\repos\CarRentalSystemOOP\LoginUser.h(332,42): warning C4101: 'e': unreferenced local variable
+C:\Users\DELL\source\repos\CarRentalSystemOOP\LoginUser.h(498,46): warning C4101: 'e': unreferenced local variable
+  CarRentalSystemOOP.vcxproj -> C:\Users\DELL\source\repos\CarRentalSystemOOP\x64\Debug\CarRentalSystemOOP.exe

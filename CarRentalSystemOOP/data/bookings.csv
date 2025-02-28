@@ -1,0 +1,2 @@
+BookingID,CarID,Username,StartDate,EndDate,Status,RentalFee
+1,2,ram,2023-09-15,2023-09-18,1,1920
