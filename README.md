@@ -20,7 +20,7 @@ A console-based **Car Rental System** developed using **C++ and Object-Oriented 
 - **Visual Studio**
 - **File Handling (CSV & TXT)**
 
-## 🧭 Flowchart
-![Flowchart](images/flowchart.png)
+![car_rental_system_flowchart](https://github.com/user-attachments/assets/6e42deb8-eee2-4f1f-ada0-2b48f2b8f525)
+
 
 📌 **Note:** This is a console-based project for learning **C++ OOP concepts**.
