@@ -1,0 +1,9 @@
+# Exclude build and debug files
+x64/
+*.exe
+*.pdb
+*.ilk
+*.log
+*.obj
+*.idb
+*.tlog
